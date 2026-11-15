@@ -1,5 +1,3 @@
-# Ralysnd Ember — update feed
+# Moved
 
-Official releases of the Ralysnd Ember Android app.
-
-The app checks the **latest release** on this page and offers the new build for download in-app. Each release ships one APK asset: `RalysndEmber2.apk` (arm64-v8a), with its SHA-256 in the release notes.
+Ralysnd Ember now lives at **[github.com/Mojdee12/ralysnd-ember](https://github.com/Mojdee12/ralysnd-ember)** — source, screenshots and all downloads (Releases) are there.
